@@ -1,4 +1,4 @@
-# DDA-Algorithm-
+# DDA-Algorithm
  🧮 DDA Line Drawing Algorithm (Python + Matplotlib)
 
 This project demonstrates the **Digital Differential Analyzer (DDA)line drawing algorithm using Python. The DDA algorithm is a fundamental computer graphics technique used to draw straight lines between two points by incrementally calculating intermediate pixel positions.
